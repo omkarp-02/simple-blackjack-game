@@ -71,19 +71,6 @@ function newCard() {
 
 
 
-// let airbnb = {
-//     name: "castle",
-//     place: "LONDON",
-//     price: 1000,
-//     roomsAvailabe: true,
-//     roomNumAvailable: [1,4]
-// }
-
-// console.log(airbnb.roomNumAvailable[1]);
-
-
-
-
 
 
 
